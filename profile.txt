@@ -2,4 +2,5 @@ Name: Umar Malik
 Matric Number: 231593570
 Course: Data Science
 Hobbies: Coding, Hiking
-Role: Data Engineer
+Role: Data Scientist
+
